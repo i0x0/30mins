@@ -1,0 +1,3 @@
+* change from react to something lightweight like svelte or solid
+* use ui kit
+* lazily load inject
